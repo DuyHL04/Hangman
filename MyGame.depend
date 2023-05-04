@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1682617238 source:d:\code\mygame\mygame\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<fstream>
+
+1683216361 source:d:\code\mygame\main.cpp
+	"play.h"
+	"menu.h"
+
+1683216779 d:\code\mygame\const.h
+	<iostream>
+
+1683217427 source:d:\code\mygame\menu.cpp
+	"menu.h"
+
+1683193651 d:\code\mygame\menu.h
+	"BaseFunc.h"
+
+1683216616 source:d:\code\mygame\play.cpp
+	"play.h"
+
+1683111625 d:\code\mygame\play.h
+	"BaseFunc.h"
+
+1683216229 d:\code\mygame\basefunc.h
+	<iostream>
+	"const.h"
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<conio.h>
+
+1683216361 source:d:\code\mygame\basefunc.cpp
+	"BaseFunc.h"
+
+1683106671 source:d:\code\mygame\go.cpp
+	"const.h"
+	"BaseFunc.h"
+	"play.h"
+	"menu.h"
+	"conio.h"
+
+1683111625 d:\code\mygame\go.cpp
+	"go.h"
+
+1683111625 d:\code\mygame\go.h
+	"BaseFunc.h"
+
